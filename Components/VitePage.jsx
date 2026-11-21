@@ -2,7 +2,7 @@ import { useState } from 'react'
 import heroImg from '../src/assets/hero.png'
 import reactLogo from '../src/assets/react.svg'
 import viteLogo from '../src/assets/vite.svg'
-import '../src/App.css'
+
 
 function VitePage() {
   const [count, setCount] = useState(0)
